@@ -3,3 +3,5 @@
 **/*.cpython-38..pyc
 .ipynb_checkpoints/definitions-checkpoint.py
 __pycache__/definitions.cpython-38.pyc
+*checkpoint.ipynb
+
